@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Photon</title>
+    <link rel="shortcut icon" href="photon.svg" type="image/x-icon">
 
     <!-- style from css -->
     <link rel="stylesheet" href="./style/style.css">
@@ -16,64 +17,69 @@
 
 <body>
 
-    <!-- Hero Section -->
-    <section class="hero-section">
-        <div class="content">
-            <h1>Capture Life's Moments</h1>
-            <p>Explore breathtaking photography from around the world. Discover the stories behind each shot.</p>
-        </div>
-
-        <!-- Navigation Icon -->
-        <div class="nav-icon">
-            <i class="fas fa-bars" id="navToggle"></i>
-        </div>
-
-        <!-- Navbar -->
-        <nav class="navbar" id="navbar">
-            <div class="close-icon" id="navClose">
-                <i class="fas fa-times"></i>
+    <div class="hero_body">
+        <!-- Hero Section -->
+        <section class="hero-section">
+            <div class="content">
+                <h1>Capture Life's Moments</h1>
+                <p>Explore breathtaking photography from around the world. Discover the stories behind each shot.</p>
             </div>
-            <ul>
-                <li><a href="./index.html">Home</a></li>
-                <li><a href="#">About</a></li>
-                <li><a href="#">Gallery</a></li>
-                <li><a href="#">Blog</a></li>
-                <li><a href="#">Contact</a></li>
-            </ul>
-        </nav>
-    </section>
 
-
-    <!-- Portfolio Section -->
-    <section class="portfolio-section">
-        <div class="portfolio-filters">
-            <button class="filter-btn" data-category="all">All</button>
-            <button class="filter-btn" data-category="Landscape">Landscape</button>
-            <button class="filter-btn" data-category="Portrait">Portrait</button>
-            <button class="filter-btn" data-category="Wildlife">Wildlife</button>
-            <button class="filter-btn" data-category="Urban">Urban</button>
-            <button class="filter-btn" data-category="Macro">Macro</button>
-        </div>
-
-        <div class="portfolio-gallery" id="portfolioGallery">
-            <!-- Dynamically added image cards will appear here -->
-            <!-- Modal Structure -->
-
-        </div>
-        <div id="detailsModal" class="modal">
-            <div class="modal-content">
-                <span class="close">&times;</span>
-                <div id="modalImage"></div>
-                <h3 id="modalName"></h3>
-                <p id="modalDetails"></p>
-                <p><strong>Author:</strong> <span id="modalAuthor"></span></p>
-                <p><strong>Date:</strong> <span id="modalDate"></span></p>
-                <p><strong>Award:</strong> <span id="modalAward"></span></p>
+            <!-- Navigation Icon -->
+            <div class="nav-icon">
+                <i class="fas fa-bars" id="navToggle"></i>
             </div>
-        </div>
 
-    </section>
+            <!-- Navbar -->
+            <nav class="navbar" id="navbar">
+                <div class="close-icon" id="navClose">
+                    <i class="fas fa-times"></i>
+                </div>
+                <ul>
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Gallery</a></li>
+                    <li><a href="#">Blog</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
 
+        </section>
+
+        <!-- Portfolio Section -->
+        <section class="portfolio-section">
+
+            <div class="portfolio-filters">
+                <button class="filter-btn" data-category="all">All</button>
+                <button class="filter-btn" data-category="Landscape">Landscape</button>
+                <button class="filter-btn" data-category="Portrait">Portrait</button>
+                <button class="filter-btn" data-category="Wildlife">Wildlife</button>
+                <button class="filter-btn" data-category="Urban">Urban</button>
+                <button class="filter-btn" data-category="Macro">Macro</button>
+            </div>
+
+            <div class="portfolio-gallery" id="portfolioGallery">
+                <!-- Dynamically added image cards will appear here -->
+                <!-- Modal Structure -->
+
+            </div>
+            <div id="detailsModal" class="modal">
+                <div class="modal-content">
+                    <span class="close">&times;</span>
+                    <div id="modalImage"></div>
+                    <h3 id="modalName"></h3>
+                    <p id="modalDetails"></p>
+                    <p><strong>Author:</strong> <span id="modalAuthor"></span></p>
+                    <p><strong>Date:</strong> <span id="modalDate"></span></p>
+                    <p><strong>Award:</strong> <span id="modalAward"></span></p>
+                </div>
+            </div>
+
+
+        </section>
+
+
+    </div>
 
     <script src="./script/script.js"></script>
     <script src="./script/portfolio.js"></script>

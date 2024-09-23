@@ -24,6 +24,10 @@ html {
     text-align: center;
 }
 
+.hero_body {
+    position: relative;
+}
+
 .content h1 {
     font-size: 4rem;
     margin-bottom: 20px;
@@ -60,6 +64,7 @@ section {
     background: rgba(0, 0, 0, 0.9);
     display: none;
     animation: none;
+    z-index: 10;
 }
 
 .navbar ul {
@@ -119,6 +124,8 @@ section {
 
 /* Portfolio Section */
 .portfolio-section {
+    position: absolute;
+    top: 60%;
     padding: 40px;
 }
 
@@ -128,16 +135,19 @@ section {
 }
 
 .filter-btn {
-    background-color: #333;
+    background-color: #007bff;
     color: white;
     padding: 10px 20px;
     border: none;
+    border-radius: 10px;
+    box-shadow: 0 1px 2px #007bff;
     cursor: pointer;
     margin: 5px;
 }
 
 .filter-btn:hover {
     background-color: #555;
+    box-shadow: 0 1px 2px #555;
 }
 
 .portfolio-gallery {
@@ -149,11 +159,12 @@ section {
 
 .portfolio-card {
     width: 250px;
+    background-color: #fff;
     border: 1px solid #ccc;
     border-radius: 5px;
     overflow: hidden;
     text-align: center;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px #007bff;
 }
 
 .portfolio-card img {
