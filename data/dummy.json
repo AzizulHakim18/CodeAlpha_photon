@@ -1,0 +1,237 @@
+[
+    {
+        "id": 1,
+        "categoryName": "Landscape",
+        "img": "https://i.ibb.co.com/k17Fvkw/Leonardo-Kino-XL-Create-an-image-of-towering-snowcapped-Himala-0.jpg",
+        "data": [
+            {
+                "data-id": 11,
+                "name": "Majestic Mountains",
+                "img": "https://i.ibb.co.com/k17Fvkw/Leonardo-Kino-XL-Create-an-image-of-towering-snowcapped-Himala-0.jpg",
+                "headline": "A Journey Through the Peaks",
+                "details": "This photograph captures the breathtaking beauty of the Himalayan range. The vibrant colors of the sunrise create a stunning contrast against the snow-capped peaks. Every mountain tells a story of resilience and grandeur.",
+                "author": "John Doe",
+                "date": "2023-01-15",
+                "award": "Best Landscape Photography 2023"
+            },
+            {
+                "data-id": 12,
+                "name": "Golden Hour at the Lake",
+                "img": "https://i.ibb.co.com/M503YK1/Leonardo-Kino-XL-Generate-a-serene-image-of-a-peaceful-lake-du-3.jpg",
+                "headline": "Reflections of Nature",
+                "details": "Captured during the golden hour, this image highlights the shimmering reflections on the lake's surface. The warm tones create a peaceful ambiance, perfect for anyone seeking solace in nature.",
+                "author": "Jane Smith",
+                "date": "2023-02-20",
+                "award": "Nature Photographer of the Year"
+            },
+            {
+                "data-id": 13,
+                "name": "Desert Dunes",
+                "img": "https://i.ibb.co.com/ZVpHgS6/Leonardo-Kino-XL-Illustrate-a-desert-landscape-with-rolling-sa-2.jpg",
+                "headline": "Shifting Sands",
+                "details": "This photograph captures the mesmerizing patterns of sand dunes under the golden sun. The interplay of light and shadow creates a stunning visual narrative of the desert landscape.",
+                "author": "Alice Johnson",
+                "date": "2023-03-25",
+                "award": "Desert Photography Award"
+            },
+            {
+                "data-id": 14,
+                "name": "Forest Trail",
+                "img": "https://i.ibb.co.com/bFnHQGF/Leonardo-Kino-XL-Design-a-lush-green-forest-with-a-narrow-trai-0.jpg",
+                "headline": "A Path to Serenity",
+                "details": "This image invites viewers to wander through a lush green forest. Sunlight filtering through the trees creates a magical atmosphere, perfect for nature lovers.",
+                "author": "Robert Brown",
+                "date": "2023-04-10",
+                "award": "Best Nature Shot"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "categoryName": "Portrait",
+        "img": "https://i.ibb.co.com/4YrNvp4/Leonardo-Kino-XL-Create-a-portrait-of-a-person-deep-in-thought-0.jpg",
+        "data": [
+            {
+                "data-id": 21,
+                "name": "The Thinker",
+                "img": "https://i.ibb.co.com/4YrNvp4/Leonardo-Kino-XL-Create-a-portrait-of-a-person-deep-in-thought-0.jpg",
+                "headline": "A Moment of Reflection",
+                "details": "This portrait captures a moment of deep thought and introspection. The subject's expression conveys a sense of contemplation.",
+                "author": "Emily Brown",
+                "date": "2023-03-10",
+                "award": "Portrait Excellence Award"
+            },
+            {
+                "data-id": 22,
+                "name": "Joy in Motion",
+                "img": "https://i.ibb.co.com/bbMtVsj/Leonardo-Kino-XL-Generate-a-lively-portrait-of-a-person-smilin-3.jpg",
+                "headline": "Capturing Happiness",
+                "details": "This lively portrait showcases the subject's joyful spirit, conveying energy and enthusiasm through vibrant colors.",
+                "author": "Michael Johnson",
+                "date": "2023-04-05",
+                "award": "Best Portrait of 2023"
+            },
+            {
+                "data-id": 23,
+                "name": "Elder Wisdom",
+                "img": "https://i.ibb.co.com/TLWsfZ4/Leonardo-Kino-XL-Design-a-closeup-portrait-of-an-elderly-perso-3.jpg",
+                "headline": "Stories of a Lifetime",
+                "details": "A close-up portrait that captures the deep lines and expressions of a wise elder, telling a story of experience and resilience.",
+                "author": "Laura Adams",
+                "date": "2023-05-15",
+                "award": "Human Spirit Award"
+            },
+            {
+                "data-id": 24,
+                "name": "Childhood Innocence",
+                "img": "https://i.ibb.co.com/kGvGWM1/Leonardo-Kino-XL-Create-a-heartwarming-portrait-of-a-joyful-ch-2.jpg",
+                "headline": "The Joy of Youth",
+                "details": "This portrait beautifully captures the essence of childhood, showcasing a child's unfiltered joy and curiosity.",
+                "author": "Kevin Lee",
+                "date": "2023-06-20",
+                "award": "Best Youth Photography"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "categoryName": "Wildlife",
+        "img": "https://i.ibb.co.com/3W8SfKW/Leonardo-Kino-XL-Generate-an-image-of-a-powerful-eagle-soaring-1.jpg",
+        "data": [
+            {
+                "data-id": 31,
+                "name": "Majestic Eagle",
+                "img": "https://i.ibb.co.com/3W8SfKW/Leonardo-Kino-XL-Generate-an-image-of-a-powerful-eagle-soaring-1.jpg",
+                "headline": "The King of the Skies",
+                "details": "This striking image of an eagle in flight captures the essence of freedom and power, showcasing the beauty of wildlife.",
+                "author": "Sarah Connor",
+                "date": "2023-05-12",
+                "award": "Wildlife Photographer of the Year"
+            },
+            {
+                "data-id": 32,
+                "name": "Underwater Wonders",
+                "img": "https://i.ibb.co.com/vHnBPCD/Leonardo-Kino-XL-Create-an-underwater-scene-filled-with-vibran-1.jpg",
+                "headline": "Life Beneath the Surface",
+                "details": "This captivating underwater shot reveals the vibrant world of marine life, emphasizing the beauty and diversity of ocean ecosystems.",
+                "author": "Laura Wilson",
+                "date": "2023-06-18",
+                "award": "Best Underwater Photography 2023"
+            },
+            {
+                "data-id": 33,
+                "name": "Running with the Pack",
+                "img": "https://i.ibb.co.com/TgGms5L/Leonardo-Kino-XL-Illustrate-a-dynamic-image-of-a-pack-of-wolve-0.jpg",
+                "headline": "Nature's Hunt",
+                "details": "This dynamic image captures a pack of wolves in their natural habitat, showcasing their grace and strength during a hunt.",
+                "author": "Mike Thompson",
+                "date": "2023-07-22",
+                "award": "Best Wildlife Action Shot"
+            },
+            {
+                "data-id": 34,
+                "name": "Flamingo Ballet",
+                "img": "https://i.ibb.co.com/kGvGWM1/Leonardo-Kino-XL-Create-a-heartwarming-portrait-of-a-joyful-ch-2.jpg",
+                "headline": "Elegance in Nature",
+                "details": "A stunning photograph of flamingos wading gracefully in shallow waters, illustrating the delicate beauty of wildlife.",
+                "author": "Sophia Turner",
+                "date": "2023-08-14",
+                "award": "Best Bird Photography"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "categoryName": "Urban",
+        "img": "https://i.ibb.co.com/c3w7FmP/Leonardo-Kino-XL-Design-a-vibrant-night-cityscape-with-tall-bu-0.jpg",
+        "data": [
+            {
+                "data-id": 41,
+                "name": "City Lights",
+                "img": "https://i.ibb.co.com/c3w7FmP/Leonardo-Kino-XL-Design-a-vibrant-night-cityscape-with-tall-bu-0.jpg",
+                "headline": "A Night in the City",
+                "details": "This photograph showcases the vibrant nightlife of the city, with illuminated buildings and bustling streets creating a dynamic atmosphere.",
+                "author": "Daniel Kim",
+                "date": "2023-09-01",
+                "award": "Best Urban Photography"
+            },
+            {
+                "data-id": 42,
+                "name": "Street Art",
+                "img": "https://i.ibb.co.com/DLbTbY6/Leonardo-Kino-XL-Design-an-image-of-a-historic-city-building-w-2.jpg",
+                "headline": "Expressions of Creativity",
+                "details": "A captivating shot of urban street art, reflecting the culture and creativity of the city's inhabitants.",
+                "author": "Olivia Martinez",
+                "date": "2023-09-15",
+                "award": "Best Urban Art Award"
+            },
+            {
+                "data-id": 43,
+                "name": "Rush Hour",
+                "img": "https://i.ibb.co.com/Kx5FZjJ/Leonardo-Kino-XL-Illustrate-a-busy-urban-street-during-rush-ho-2.jpg",
+                "headline": "The Pulse of the City",
+                "details": "This image captures the hustle and bustle of rush hour, with commuters moving through a busy urban landscape.",
+                "author": "Chris Nguyen",
+                "date": "2023-10-10",
+                "award": "Best Candid Urban Photography"
+            },
+            {
+                "data-id": 44,
+                "name": "Historic Charm",
+                "img": "https://i.ibb.co.com/tXK617B/Leonardo-Kino-XL-Create-an-image-of-a-colorful-graffiticovered-3.jpg",
+                "headline": "Timeless Architecture",
+                "details": "A beautiful photograph of a historic building, showcasing the architectural details that tell stories of the past.",
+                "author": "Emma Wilson",
+                "date": "2023-10-22",
+                "award": "Best Architectural Photography"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "categoryName": "Macro",
+        "img": "https://i.ibb.co.com/8DJvtBp/Leonardo-Kino-XL-Create-a-macro-image-of-a-flower-focusing-on-2.jpg",
+        "data": [
+            {
+                "data-id": 51,
+                "name": "Nature's Details",
+                "img": "https://i.ibb.co.com/8DJvtBp/Leonardo-Kino-XL-Create-a-macro-image-of-a-flower-focusing-on-2.jpg",
+                "headline": "The Beauty of Small Things",
+                "details": "This macro shot highlights the intricate details of a flower, revealing patterns and colors often overlooked by the naked eye.",
+                "author": "Alice Smith",
+                "date": "2023-11-01",
+                "award": "Best Macro Photography"
+            },
+            {
+                "data-id": 52,
+                "name": "Insect World",
+                "img": "https://i.ibb.co.com/RDPPf24/Leonardo-Kino-XL-Generate-a-closeup-of-a-vibrant-insect-such-a-3.jpg",
+                "headline": "A Closer Look at Life",
+                "details": "This captivating image brings viewers into the world of insects, showcasing their unique features and vibrant colors.",
+                "author": "Ethan Green",
+                "date": "2023-11-10",
+                "award": "Macro Innovator Award"
+            },
+            {
+                "data-id": 53,
+                "name": "Water Droplets",
+                "img": "https://i.ibb.co.com/jJxk3M1/Leonardo-Kino-XL-Illustrate-a-macro-shot-of-tiny-water-droplet-0.jpg",
+                "headline": "Nature's Jewels",
+                "details": "An exquisite macro shot of water droplets on leaves, capturing the essence of freshness and the beauty of nature.",
+                "author": "Sophia Carter",
+                "date": "2023-11-20",
+                "award": "Best Nature Macro"
+            },
+            {
+                "data-id": 54,
+                "name": "Feather Patterns",
+                "img": "https://i.ibb.co.com/ZGJLbNv/Leonardo-Kino-XL-Create-a-detailed-macro-image-of-a-birds-feat-0.jpg",
+                "headline": "The Art of Nature",
+                "details": "This detailed shot of a feather reveals intricate textures and colors, showcasing the artistry found in the natural world.",
+                "author": "Lucas Brown",
+                "date": "2023-12-05",
+                "award": "Best Texture Photography"
+            }
+        ]
+    }
+]
