@@ -43,6 +43,36 @@
                 "author": "Robert Brown",
                 "date": "2023-04-10",
                 "award": "Best Nature Shot"
+            },
+            {
+                "data-id": 15,
+                "name": "Mountain River",
+                "img": "https://i.ibb.co.com/B20SJMH/Leonardo-Kino-XL-A-serene-mountain-river-flowing-through-a-lus-0.jpg",
+                "headline": "Flowing Through the Peaks",
+                "details": "A beautiful river winding through a lush green valley surrounded by snow-capped mountains. The pristine water reflects the surrounding natural beauty, offering a peaceful retreat into the wild.",
+                "author": "Emily Turner",
+                "date": "2023-05-10",
+                "award": "Best Water Photography 2023"
+            },
+            {
+                "data-id": 16,
+                "name": "Sunset on the Cliffs",
+                "img": "https://i.ibb.co.com/FK04R5D/Leonardo-Kino-XL-A-dramatic-sunset-scene-with-golden-hues-ligh-0.jpg",
+                "headline": "The Golden Horizon",
+                "details": "A spectacular sunset viewed from the edge of towering cliffs. The golden hues of the setting sun merge with the deep blues of the ocean below, creating a dramatic contrast in the landscape.",
+                "author": "David Green",
+                "date": "2023-06-15",
+                "award": "Best Sunset Photography"
+            },
+            {
+                "data-id": 17,
+                "name": "Lavender Fields",
+                "img": "https://i.ibb.co.com/1zysHMs/Leonardo-Kino-XL-A-vast-field-of-blooming-lavender-stretching-0.jpg",
+                "headline": "Endless Purple",
+                "details": "A serene image of endless lavender fields stretching out towards the horizon, under a bright summer sky. The vibrant purple hues of the lavender create a calming and peaceful atmosphere.",
+                "author": "Samantha Gray",
+                "date": "2023-07-01",
+                "award": "Best Floral Landscape"
             }
         ]
     },
@@ -90,6 +120,36 @@
                 "author": "Kevin Lee",
                 "date": "2023-06-20",
                 "award": "Best Youth Photography"
+            },
+            {
+                "data-id": 27,
+                "name": "Old Soul",
+                "img": "https://i.ibb.co.com/wsj0FNZ/Leonardo-Kino-XL-A-closeup-portrait-of-an-elderly-woman-her-fa-1.jpg",
+                "headline": "Wisdom Through Time",
+                "details": "A captivating portrait of an elderly woman, her face marked by the lines of time. Her serene gaze speaks of years of experience and knowledge, a true testament to the passage of life.",
+                "author": "Oliver Moore",
+                "date": "2023-08-22",
+                "award": "Best Senior Portrait"
+            },
+            {
+                "data-id": 28,
+                "name": "Free Spirit",
+                "img": "https://i.ibb.co.com/RD5Tvfj/Leonardo-Kino-XL-A-joyful-portrait-of-a-young-woman-with-flowi-1.jpg",
+                "headline": "Embracing the Moment",
+                "details": "A joyful portrait of a young woman laughing freely, her hair flowing in the wind. The candid nature of the shot captures a moment of pure happiness and liberation.",
+                "author": "Liam Parker",
+                "date": "2023-09-15",
+                "award": "Candid Portrait of the Year"
+            },
+            {
+                "data-id": 29,
+                "name": "Cultural Essence",
+                "img": "https://i.ibb.co.com/HXwhtRx/Leonardo-Kino-XL-A-striking-portrait-of-a-man-in-traditional-a-2.jpg",
+                "headline": "Tradition and Identity",
+                "details": "A powerful portrait of a man dressed in traditional attire, his face painted with symbolic patterns. The image showcases the rich cultural heritage and the pride of his identity.",
+                "author": "Ava Johnson",
+                "date": "2023-10-05",
+                "award": "Cultural Portrait Award"
             }
         ]
     },
@@ -137,6 +197,36 @@
                 "author": "Sophia Turner",
                 "date": "2023-08-14",
                 "award": "Best Bird Photography"
+            },
+            {
+                "data-id": 37,
+                "name": "Great Migration",
+                "img": "https://i.ibb.co.com/JpsjXmr/Leonardo-Kino-XL-A-stunning-wildlife-scene-depicting-thousands-3.jpg",
+                "headline": "Journey of Survival",
+                "details": "Thousands of wildebeest and zebras crossing a river during the great migration in Africa. This stunning image captures the challenges and dangers these animals face in their annual journey for survival.",
+                "author": "Beverly Joubert",
+                "date": "2023-09-25",
+                "award": "Best Documentary Wildlife Shot"
+            },
+            {
+                "data-id": 38,
+                "name": "Tiger in the Jungle",
+                "img": "https://i.ibb.co.com/GHHvnXg/Leonardo-Kino-XL-A-powerful-and-intense-portrait-of-a-Bengal-t-1.jpg",
+                "headline": "Eyes of the Hunter",
+                "details": "A powerful portrait of a Bengal tiger as it stalks silently through the dense jungle. The intensity in its eyes showcases the primal instincts of one of the most fearsome predators in the wild.",
+                "author": "Shaaz Jung",
+                "date": "2023-10-18",
+                "award": "Best Predator Portrait"
+            },
+            {
+                "data-id": 39,
+                "name": "Gentle Giraffe",
+                "img": "https://i.ibb.co.com/C6tNkpw/Leonardo-Kino-XL-A-graceful-giraffe-stands-tall-gently-nibblin-3.jpg",
+                "headline": "Grace in Height",
+                "details": "A gentle and elegant portrait of a giraffe munching on leaves from the treetops. Its graceful neck and calm demeanor make for a serene and captivating image.",
+                "author": "Peter Beard",
+                "date": "2023-11-05",
+                "award": "Best Herbivore Portrait"
             }
         ]
     },
@@ -184,6 +274,26 @@
                 "author": "Emma Wilson",
                 "date": "2023-10-22",
                 "award": "Best Architectural Photography"
+            },
+            {
+                "data-id": 45,
+                "name": "Bicycle on a Quiet Street",
+                "img": "https://i.ibb.co.com/NY6K4Dq/Leonardo-Kino-XL-A-peaceful-urban-scene-with-a-lone-bicycle-le-3.jpg",
+                "headline": "Solitude in the City",
+                "details": "A lone bicycle leans against a building on a quiet city street. The image captures a moment of stillness in an otherwise busy urban environment, offering a glimpse of peace amidst the hustle.",
+                "author": "Anna Rodriguez",
+                "date": "2023-09-10",
+                "award": "Best Minimalist Urban Photo"
+            },
+            {
+                "data-id": 46,
+                "name": "Cityscape from Above",
+                "img": "https://i.ibb.co.com/RS556Fp/Leonardo-Kino-XL-An-aerial-view-of-a-sprawling-city-with-stree-1.jpg",
+                "headline": "The Urban Jungle",
+                "details": "An aerial view of a sprawling city, with roads weaving through a sea of buildings. This bird's-eye perspective captures the vastness and complexity of urban planning and architecture.",
+                "author": "Nathan Lee",
+                "date": "2023-10-05",
+                "award": "Best Cityscape Photography"
             }
         ]
     },
@@ -231,6 +341,26 @@
                 "author": "Lucas Brown",
                 "date": "2023-12-05",
                 "award": "Best Texture Photography"
+            },
+            {
+                "data-id": 55,
+                "name": "Butterfly Wings",
+                "img": "https://i.ibb.co.com/Njzn5CP/Leonardo-Kino-XL-A-detailed-macro-image-of-a-butterflys-wings-1.jpg",
+                "headline": "Wings of Wonder",
+                "details": "A macro shot of a butterfly's wings, capturing the stunning patterns and vibrant colors. The fine scales of the wings are beautifully detailed, highlighting nature’s delicate artistry.",
+                "author": "Mia Jones",
+                "date": "2023-07-25",
+                "award": "Best Nature Photography"
+            },
+            {
+                "data-id": 56,
+                "name": "Water Droplet on a Feather",
+                "img": "https://i.ibb.co.com/rcLZFgW/Leonardo-Kino-XL-A-macro-shot-of-a-single-water-droplet-perche-0.jpg",
+                "headline": "The Lightness of Being",
+                "details": "This macro image showcases a single water droplet perched delicately on a feather. The softness of the feather contrasts beautifully with the crystal-clear droplet, reflecting the surrounding environment.",
+                "author": "Oliver Bennett",
+                "date": "2023-08-12",
+                "award": "Best Minimalist Macro Photo"
             }
         ]
     }

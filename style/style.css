@@ -46,6 +46,19 @@ section {
     font-size: 1.5rem;
 }
 
+.hero_avatar {
+    position: absolute;
+    top: 20px;
+    left: 70px;
+    font-size: 1rem;
+    color: #f39c12;
+    cursor: pointer;
+}
+
+.hero_avatar img {
+    width: 70px;
+}
+
 .nav-icon {
     position: absolute;
     top: 20px;
@@ -135,12 +148,12 @@ section {
 }
 
 .filter-btn {
-    background-color: #007bff;
+    background-color: #f39c12;
     color: white;
     padding: 10px 20px;
     border: none;
     border-radius: 10px;
-    box-shadow: 0 1px 2px #007bff;
+    box-shadow: 0 1px 2px #f39c12;
     cursor: pointer;
     margin: 5px;
 }
@@ -148,6 +161,12 @@ section {
 .filter-btn:hover {
     background-color: #555;
     box-shadow: 0 1px 2px #555;
+}
+
+/* Active button style */
+.filter-btn.active {
+    background-color: #007bff;
+    box-shadow: 0 1px 2px #007bff;
 }
 
 .portfolio-gallery {
@@ -164,7 +183,7 @@ section {
     border-radius: 5px;
     overflow: hidden;
     text-align: center;
-    box-shadow: 0 4px 8px #007bff;
+    box-shadow: 0 4px 8px #f39c12;
 }
 
 .portfolio-card img {
@@ -214,6 +233,7 @@ section {
 
 .modal-content {
     background-color: #fff;
+    text-align: center;
     padding: 20px;
     width: 80%;
     max-width: 500px;
@@ -221,8 +241,11 @@ section {
 }
 
 .modal_img {
-    width: 100px;
-    height: 100px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
 }
 
 .close {

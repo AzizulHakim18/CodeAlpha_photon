@@ -47,6 +47,14 @@ const filterBtns = document.querySelectorAll('.filter-btn');
 filterBtns.forEach(btn => {
     btn.addEventListener('click', (e) => {
         const category = e.target.getAttribute('data-category');
+
+        // Remove 'active' class from all buttons
+        filterBtns.forEach(btn => btn.classList.remove('active'));
+
+        // Add 'active' class to the clicked button
+        e.target.classList.add('active');
+
+        // Fetch the data based on the category
         fetch('../data/dummy.json')
             .then(response => response.json())
             .then(data => generatePortfolioCards(category, data))
